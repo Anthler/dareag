@@ -1,0 +1,8 @@
+1. What was the difficult part about the challenge ?
+
+Working on the static website was a bit challenging for me.
+
+2. If you have enough time, what will you add as the next features to improve the project ?
+
+To use Aragon Dao template to implement the DAO functionalities instead of custom implementation.
+
